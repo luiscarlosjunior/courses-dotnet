@@ -1,0 +1,6 @@
+C:\Users\luisc\source\repos\UdemyCourses\UdemyCourses\bin\Debug\UdemyCourses.exe.config
+C:\Users\luisc\source\repos\UdemyCourses\UdemyCourses\bin\Debug\UdemyCourses.exe
+C:\Users\luisc\source\repos\UdemyCourses\UdemyCourses\bin\Debug\UdemyCourses.pdb
+C:\Users\luisc\source\repos\UdemyCourses\UdemyCourses\obj\Debug\UdemyCourses.csprojAssemblyReference.cache
+C:\Users\luisc\source\repos\UdemyCourses\UdemyCourses\obj\Debug\UdemyCourses.exe
+C:\Users\luisc\source\repos\UdemyCourses\UdemyCourses\obj\Debug\UdemyCourses.pdb

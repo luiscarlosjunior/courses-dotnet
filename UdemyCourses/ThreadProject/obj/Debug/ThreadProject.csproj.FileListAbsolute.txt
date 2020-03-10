@@ -1,0 +1,6 @@
+C:\Users\luisc\source\repos\UdemyCourses\ThreadProject\bin\Debug\ThreadProject.exe.config
+C:\Users\luisc\source\repos\UdemyCourses\ThreadProject\bin\Debug\ThreadProject.exe
+C:\Users\luisc\source\repos\UdemyCourses\ThreadProject\bin\Debug\ThreadProject.pdb
+C:\Users\luisc\source\repos\UdemyCourses\ThreadProject\obj\Debug\ThreadProject.csprojAssemblyReference.cache
+C:\Users\luisc\source\repos\UdemyCourses\ThreadProject\obj\Debug\ThreadProject.exe
+C:\Users\luisc\source\repos\UdemyCourses\ThreadProject\obj\Debug\ThreadProject.pdb
