@@ -1,0 +1,6 @@
+C:\Users\luisc\source\repos\UdemyCourses\DelegatesEvents\bin\Debug\DelegatesEvents.exe.config
+C:\Users\luisc\source\repos\UdemyCourses\DelegatesEvents\bin\Debug\DelegatesEvents.exe
+C:\Users\luisc\source\repos\UdemyCourses\DelegatesEvents\bin\Debug\DelegatesEvents.pdb
+C:\Users\luisc\source\repos\UdemyCourses\DelegatesEvents\obj\Debug\DelegatesEvents.csprojAssemblyReference.cache
+C:\Users\luisc\source\repos\UdemyCourses\DelegatesEvents\obj\Debug\DelegatesEvents.exe
+C:\Users\luisc\source\repos\UdemyCourses\DelegatesEvents\obj\Debug\DelegatesEvents.pdb
