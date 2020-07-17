@@ -8380,11 +8380,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj",
+      "projectUniqueName": "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\.Net core\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj",
       "projectName": "ExemploSimples",
-      "projectPath": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj",
+      "projectPath": "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\.Net core\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj",
       "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\Sample ASP.NET Core\\ExemploSimples\\obj\\",
+      "outputPath": "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\.Net core\\Sample ASP.NET Core\\ExemploSimples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config",

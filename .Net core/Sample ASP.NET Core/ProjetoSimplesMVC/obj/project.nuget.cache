@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oDvW0iSEPgPLULLWu9lZoWrKtwc5rAc0ilPzkq/+6CE4UL2LDD/AoUU8ZHdhhcdXLRrhKJnm3na5896Sg50a3Q==",
+  "dgSpecHash": "NaxBJ5zhG4udtCtduKSudHeEMl0pjk1dRgSYZRDjAJ2mFe0tqlWCkeNGuLIW68eZX2gXVMoWG7GtwOXZgR4h2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\Sample ASP.NET Core\\ProjetoSimplesMVC\\ProjetoSimplesMVC.csproj",
+  "projectFilePath": "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\.Net core\\Sample ASP.NET Core\\ProjetoSimplesMVC\\ProjetoSimplesMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisc\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.5\\microsoft.aspnetcore.mvc.razor.extensions.3.1.5.nupkg.sha512",

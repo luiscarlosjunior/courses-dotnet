@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj": {}
+    "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\.Net core\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj": {
+    "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\.Net core\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj",
+        "projectUniqueName": "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\.Net core\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj",
         "projectName": "ExemploSimples",
-        "projectPath": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj",
+        "projectPath": "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\.Net core\\Sample ASP.NET Core\\ExemploSimples\\ExemploSimples.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisc\\Documents\\GitHub\\100-days-of-code\\dotNet\\Sample ASP.NET Core\\ExemploSimples\\obj\\",
+        "outputPath": "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\.Net core\\Sample ASP.NET Core\\ExemploSimples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,7 +48,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[3.1.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
