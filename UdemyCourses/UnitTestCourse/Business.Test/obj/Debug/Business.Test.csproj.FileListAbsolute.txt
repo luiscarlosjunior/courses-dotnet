@@ -1,0 +1,2 @@
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\Business.Test\obj\Debug\Business.Test.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\Business.Test\obj\Debug\Business.Test.csproj.CoreCompileInputs.cache
