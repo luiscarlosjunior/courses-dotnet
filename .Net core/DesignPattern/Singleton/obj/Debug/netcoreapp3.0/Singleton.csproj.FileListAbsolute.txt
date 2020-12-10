@@ -1,0 +1,11 @@
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\bin\Debug\netcoreapp3.0\Singleton.exe
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\bin\Debug\netcoreapp3.0\Singleton.deps.json
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.json
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.dev.json
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\bin\Debug\netcoreapp3.0\Singleton.dll
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\bin\Debug\netcoreapp3.0\Singleton.pdb
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\obj\Debug\netcoreapp3.0\Singleton.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\obj\Debug\netcoreapp3.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\obj\Debug\netcoreapp3.0\Singleton.AssemblyInfo.cs
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\obj\Debug\netcoreapp3.0\Singleton.dll
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Singleton\obj\Debug\netcoreapp3.0\Singleton.pdb
