@@ -1,0 +1,11 @@
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\bin\Debug\netcoreapp3.0\Adapter.exe
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\bin\Debug\netcoreapp3.0\Adapter.deps.json
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.json
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.dev.json
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\bin\Debug\netcoreapp3.0\Adapter.dll
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\bin\Debug\netcoreapp3.0\Adapter.pdb
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\obj\Debug\netcoreapp3.0\Adapter.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfo.cs
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\obj\Debug\netcoreapp3.0\Adapter.dll
+C:\Users\Luis\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Adapter\obj\Debug\netcoreapp3.0\Adapter.pdb
