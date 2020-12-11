@@ -1,0 +1,9 @@
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\SerialPortParser\bin\Debug\netstandard2.0\SerialPortParser.deps.json
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\SerialPortParser\bin\Debug\netstandard2.0\SerialPortParser.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\SerialPortParser\bin\Debug\netstandard2.0\SerialPortParser.pdb
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\SerialPortParser\obj\Debug\netstandard2.0\SerialPortParser.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\SerialPortParser\obj\Debug\netstandard2.0\SerialPortParser.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\SerialPortParser\obj\Debug\netstandard2.0\SerialPortParser.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\SerialPortParser\obj\Debug\netstandard2.0\SerialPortParser.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\SerialPortParser\obj\Debug\netstandard2.0\SerialPortParser.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\UdemyCourses\UnitTestCourse\SerialPortParser\obj\Debug\netstandard2.0\SerialPortParser.pdb

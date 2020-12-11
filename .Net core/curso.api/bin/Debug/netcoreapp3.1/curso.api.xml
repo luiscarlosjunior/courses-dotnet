@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <member name="M:curso.api.Controllers.UsuarioController.Logar(curso.api.Models.Usuario.LoginViewModelInput)">
+            <summary>
+            Função para Logar
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns>200</returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Registrar(curso.api.Models.Usuario.RegistroViewModelInput)">
+            <summary>
+            Função para Registrar
+            </summary>
+            <param name="registroViewModelInput"></param>
+            <returns>201</returns>
+        </member>
+        <member name="T:curso.api.Models.Usuario.LoginViewModelInput">
+            <summary>
+            Classe responsável pelo login
+            </summary>
+        </member>
+        <member name="T:curso.api.Models.Usuario.RegistroViewModelInput">
+            <summary>
+            Classe responsável por registrar
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+*.suo
+>>>>>>> 67b3747746abb12bf8e03828c3c300e4ab01d77e
 *.cache
 *.exe
 *.pdb

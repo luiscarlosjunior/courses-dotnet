@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5kq3M/5RrTLtd69MIptzJLRUmna+UwUjhrBtYwMIwf696/+G/eXnmJSJa9DcasHgTCIAOJ9+1QyF/D6OaxJrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisc\\Documents\\GitHub\\courses-content-dotnet\\UdemyCourses\\UnitTestCourse\\SerialPortParser\\SerialPortParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\luisc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
