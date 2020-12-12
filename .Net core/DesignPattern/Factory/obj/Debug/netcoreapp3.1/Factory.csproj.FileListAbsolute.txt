@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\obj\Debug\netcoreapp3.1\Factory.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\bin\Debug\netcoreapp3.1\Factory.exe
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.json
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.dev.json
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\obj\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\DesignPattern\Factory\obj\Debug\netcoreapp3.1\Factory.genruntimeconfig.cache
