@@ -1,0 +1,16 @@
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\PatternsExamples.dll.config
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\PatternsExamples.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\PatternsExamples.pdb
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\nunit.framework.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\bin\Debug\nunit.framework.xml
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.csproj.CopyComplete
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net C#\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.pdb
