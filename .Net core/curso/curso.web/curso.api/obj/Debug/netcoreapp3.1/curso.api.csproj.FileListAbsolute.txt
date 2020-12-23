@@ -10,8 +10,6 @@ C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.csprojAssemblyReference.cache
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.AssemblyInfoInputs.cache
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.AssemblyInfo.cs
-C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.csproj.CoreCompileInputs.cache
-C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.RazorTargetAssemblyInfo.cache
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\staticwebassets\curso.api.StaticWebAssets.Manifest.cache
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\staticwebassets\curso.api.StaticWebAssets.xml
