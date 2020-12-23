@@ -1,7 +1,13 @@
 ﻿using curso.api.Filters;
 using curso.api.Model;
+using curso.api.Model.Usuario;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 using Swashbuckle.AspNetCore.Annotations;
+using System;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
 
 namespace curso.api.Controllers
 {
@@ -25,7 +31,36 @@ namespace curso.api.Controllers
         [ValidacaoModelStateCustomizado]
         public IActionResult Logar(LoginViewModelInput loginViewModelInput) 
         {
-            return Ok(loginViewModelInput);
+            var usuarioViewModelOutput = new UsuarioViewModelOutput()
+            {
+                Codigo = 1,
+                Login = "Foo",
+                Email = "foo@contoso.br"
+            };
+
+            var secret = Encoding.ASCII.GetBytes("QwErTyUiOp357159@#$");
+            var symmetricSecurityKey = new SymmetricSecurityKey(secret);
+            var securityTokenDescriptor = new SecurityTokenDescriptor
+            {
+                Subject = new ClaimsIdentity(new Claim[]
+                {
+                    new Claim(ClaimTypes.NameIdentifier, usuarioViewModelOutput.Codigo.ToString()),
+                    new Claim(ClaimTypes.Name, usuarioViewModelOutput.Login.ToString()),
+                    new Claim(ClaimTypes.Email, usuarioViewModelOutput.Email.ToString())
+                }),
+                Expires = DateTime.UtcNow.AddDays(1),
+                SigningCredentials = new SigningCredentials(symmetricSecurityKey, SecurityAlgorithms.HmacSha256Signature)
+            };
+
+            var jwtSecurityTokenHandler = new JwtSecurityTokenHandler();
+            var tokenGenerated = jwtSecurityTokenHandler.CreateToken(securityTokenDescriptor);
+            var token = jwtSecurityTokenHandler.WriteToken(tokenGenerated);
+
+            return Ok(new
+            {
+                Token = token,
+                Usuario = usuarioViewModelOutput
+            });
         }
 
         /// <summary>
@@ -40,6 +75,5 @@ namespace curso.api.Controllers
         {
             return Created("", registrarViewModelInput);
         }
-
     }
 }

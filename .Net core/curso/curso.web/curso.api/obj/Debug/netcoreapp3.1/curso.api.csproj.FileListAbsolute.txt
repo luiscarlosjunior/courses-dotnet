@@ -23,6 +23,14 @@ C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.csproj.CopyComplete
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.csproj.CoreCompileInputs.cache
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.MvcApplicationPartsAssemblyInfo.cache
