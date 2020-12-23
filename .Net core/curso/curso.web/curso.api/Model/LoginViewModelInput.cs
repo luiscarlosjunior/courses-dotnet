@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 
 namespace curso.api.Model
 {
+    /// <summary>
+    /// Classe responsável por manter os dados de login
+    /// </summary>
     public class LoginViewModelInput
     {
         public string Login { get; set; }
