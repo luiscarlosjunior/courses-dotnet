@@ -17,3 +17,12 @@ C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.pdb
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.genruntimeconfig.cache
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\curso.api.xml
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.csproj.CopyComplete
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.MvcApplicationPartsAssemblyInfo.cache
