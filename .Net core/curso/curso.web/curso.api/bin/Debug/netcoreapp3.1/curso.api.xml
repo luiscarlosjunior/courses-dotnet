@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <member name="T:curso.api.Controllers.UsuarioController">
+            <summary>
+            Classe controller
+            </summary>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Logar(curso.api.Model.LoginViewModelInput)">
+            <summary>
+            Função responsável por realizar o login
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns></returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Registro(curso.api.Model.RegistrarViewModelInput)">
+            <summary>
+            Função responsável por realizar o registro
+            </summary>
+            <param name="registrarViewModelInput"></param>
+            <returns></returns>
+        </member>
+        <member name="T:curso.api.Filters.ValidacaoModelStateCustomizado">
+            <summary>
+            Classe que realiza a validação através de filtros
+            </summary>
+        </member>
+        <member name="M:curso.api.Filters.ValidacaoModelStateCustomizado.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            Método que realiza a verificação dos erros
+            </summary>
+            <param name="context">Contexto do filtro</param>
+        </member>
+        <member name="T:curso.api.Model.ErroGenericoViewModel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:curso.api.Model.ErroGenericoViewModel.Mensagem">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:curso.api.Model.LoginViewModelInput">
+            <summary>
+            Classe responsável por manter os dados de login
+            </summary>
+        </member>
+        <member name="T:curso.api.Model.RegistrarViewModelInput">
+            <summary>
+            Classe responsável por manter os dados de registro
+            </summary>
+        </member>
+        <member name="T:curso.api.Model.ValidaCampoViewModelOutput">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:curso.api.Model.ValidaCampoViewModelOutput.Erros">
+            <summary>
+            Armazena os erros
+            </summary>
+        </member>
+        <member name="M:curso.api.Model.ValidaCampoViewModelOutput.#ctor(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="erros"></param>
+        </member>
+    </members>
+</doc>
