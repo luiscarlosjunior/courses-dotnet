@@ -1,21 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using curso.api.Model;
-using Microsoft.AspNetCore.Http;
+﻿using curso.api.Model;
 using Microsoft.AspNetCore.Mvc;
 
 namespace curso.api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/v1/usuario")]
     [ApiController]
     public class UsuarioController : ControllerBase
     {
         [HttpPost]
+        [Route("login")]
         public IActionResult Logar(LoginViewModelInput loginViewModelInput) 
         {
-            return Created("", loginViewModelInput);
+            return Ok(loginViewModelInput);
+        }
+
+        [HttpPost]
+        [Route("registrar")]
+        public IActionResult Registro(RegistrarViewModelInput registrarViewModelInput)
+        {
+            return Created("", registrarViewModelInput);
         }
 
     }
