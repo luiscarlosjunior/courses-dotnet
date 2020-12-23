@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <member name="T:curso.api.Model.LoginViewModelInput">
+            <summary>
+            Classe responsável por manter os dados de login
+            </summary>
+        </member>
+        <member name="T:curso.api.Model.RegistrarViewModelInput">
+            <summary>
+            Classe responsável por manter os dados de registro
+            </summary>
+        </member>
+    </members>
+</doc>

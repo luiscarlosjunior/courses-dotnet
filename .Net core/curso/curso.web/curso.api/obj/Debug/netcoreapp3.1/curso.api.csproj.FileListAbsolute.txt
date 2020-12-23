@@ -18,3 +18,4 @@ C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.dll
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.pdb
 C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\obj\Debug\netcoreapp3.1\curso.api.genruntimeconfig.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\curso\curso.web\curso.api\bin\Debug\netcoreapp3.1\curso.api.xml
