@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\bin\Debug\netcoreapp3.1\Struct-class-by-ref.exe
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\bin\Debug\netcoreapp3.1\Struct-class-by-ref.deps.json
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\bin\Debug\netcoreapp3.1\Struct-class-by-ref.runtimeconfig.json
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\bin\Debug\netcoreapp3.1\Struct-class-by-ref.runtimeconfig.dev.json
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\bin\Debug\netcoreapp3.1\Struct-class-by-ref.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\bin\Debug\netcoreapp3.1\Struct-class-by-ref.pdb
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\obj\Debug\netcoreapp3.1\Struct-class-by-ref.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\obj\Debug\netcoreapp3.1\Struct-class-by-ref.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\obj\Debug\netcoreapp3.1\Struct-class-by-ref.AssemblyInfo.cs
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\obj\Debug\netcoreapp3.1\Struct-class-by-ref.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\obj\Debug\netcoreapp3.1\Struct-class-by-ref.dll
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\obj\Debug\netcoreapp3.1\Struct-class-by-ref.pdb
+C:\Users\luisc\Documents\GitHub\courses-content-dotnet\.Net core\How-to-microsoft\Struct-class-by-ref\obj\Debug\netcoreapp3.1\Struct-class-by-ref.genruntimeconfig.cache
